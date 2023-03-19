@@ -2,6 +2,7 @@
     "system":{
         "version": "2023-03-19",
         "author": "sonyakun",
-        "license": "MIT License"
+        "license": "MIT License",
+        "zip_url": "https://github.com/sonyakun/eew-to-speak/archive/refs/tags/empty.zip"
     }
 }
